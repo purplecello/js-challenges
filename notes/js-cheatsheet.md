@@ -93,7 +93,7 @@ function myfunc(a, b) {
     return a * b;
 }
 
-console.log(myfunc(5, 4); // returns 20
+console.log(myfunc(5, 4)); // returns 20
 ```
 
 ### Scope and local variables
